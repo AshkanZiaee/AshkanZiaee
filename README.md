@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [ziaee.io](ziaee.io)
+- 👨‍💻 All of my projects are available at [ziaee.io](https://ziaee.io/)
 
 - 💬 Ask me about **React, Javascript**
 
