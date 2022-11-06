@@ -1,8 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4569474--Code-animation&psig=AOvVaw3aEH0Vd96RGl6GIjFkt57A&ust=1667843040223000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOi04NKNmvsCFQAAAAAdAAAAABAi)](https://ziaee.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f28b4022600593.58c272e374fa3.gif)](https://ziaee.io)
 
 <h1 align="center">Hi 👋, I'm Ashkan Ziaee</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
