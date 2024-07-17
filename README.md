@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **ash@ziaee.io**
-
 - ⚡ Fun fact **I love playing chess**
 
 <h3 align="left">Connect with me:</h3>
