@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [ziaee.io](https://ziaee.io/)
-
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **Next, React, Javascript**
 
 - ⚡ Fun fact **I love playing chess**
 
