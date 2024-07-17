@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f28b4022600593.58c272e374fa3.gif)](https://ziaee.io)
 
 <h1 align="center">Hi 👋, I'm Ashkan Ziaee</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
